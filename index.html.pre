@@ -144,6 +144,14 @@ a.blocked {
 
 <h3>Last update: UPDATE_TIMESTAMP</h3>
 
+<table style="margin-left: auto;margin-right: auto;">
+  <tr><td style="border: 4px solid red; padding: 10px;">
+    The merge list has been migrated to
+    <a href="https://zephyrproject-rtos.github.io/zephyr-merge-list/">https://zephyrproject-rtos.github.io/zephyr-merge-list/</a>,
+    this page will stop updating and be removed soon. Update your links!
+  </td></tr>
+</table>
+
 <table class="prs" id="author">
   <tr>
     <th>#</th><th>Title</th><th>Author</th><th>Assignee</th><th>Approvers</th>
